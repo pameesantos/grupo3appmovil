@@ -1,2 +1,1 @@
-# grupo3appmovil
-App móvil grupo 3
+# g3appmovil
